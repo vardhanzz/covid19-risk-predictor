@@ -97,4 +97,4 @@ npm start
   <li><strong>Attributes:</strong> Age, Fever, Body pain, Runny nose, Difficulty in breathing, Infection probability</li>
   <li><strong>Dataset Source:</strong> <a href="https://www.kaggle.com/datasets/takbiralam/covid19-symptoms-dataset" target="_blank">Covid-19 Symptoms Dataset on Kaggle</a></li>
 </ul>
-<img width="1370" alt="Screenshot 2025-05-17 at 1 31 36 AM" src="https://github.com/user-attachments/assets/05614d18-7747-449d-aad4-fc83c64f1959" />
+<img width="1400" alt="Screenshot 2025-05-18 at 11 09 39 PM" src="https://github.com/user-attachments/assets/c17390b2-9f7c-4e06-9760-e125980201c5" />
